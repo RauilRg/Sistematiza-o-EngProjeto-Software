@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Alarme de Estudo",
+    "version": "1.0",
+    "description": "Um temporizador Pomodoro simples para ajudar no estudo.",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "storage"
+    ]
+}
